@@ -10,6 +10,7 @@ import com.gurugubelli.dao.BaseDao;
 import com.gurugubelli.dao.BaseDaoImpl;
 import com.gurugubelli.pojo.User;
 
+//@WebServlet("/RegistrationController")
 public class RegistrationController extends HttpServlet {
 	
 	private static final long serialVersionUID = 1L;
